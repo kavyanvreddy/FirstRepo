@@ -1,1 +1,2 @@
 hiiii this is my first git code
+adding someother code
